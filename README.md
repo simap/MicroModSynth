@@ -10,7 +10,7 @@ On an STM32G030 at 16MHz, it can do 2 voices with 4-5 nodes each with a sample r
 You call synthVoiceNoteOn(SynthVoice_t *voice, uint8_t note) (passing midi notes) and synthVoiceNoteOff(SynthVoice_t *voice) and it does the rest. Or set the voice's phaseIncrement to anything if you want something that isn't a midi note.
 
 # Example / Test
-This is a super basic sequencer playing twinkle twinkle little star. Two voices are used: A brassy sawtooth with vibrato, and a lowpass square wave bass 2 octaves below it.
+[This audio example](output.wav) is a super basic sequencer playing twinkle twinkle little star. Two voices are used: A brassy sawtooth with vibrato, and a lowpass square wave bass 2 octaves below it.
 
 ## Running the test
 
