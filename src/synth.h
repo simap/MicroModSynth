@@ -62,7 +62,7 @@ typedef struct SynthEnvelope {
     q15_t attack;
     q15_t decay;
     q15_t sustain;
-    q15_t release; //TODO need gate off events, not just wipe state
+    q15_t release;
 } SynthEnvelope_t;
 
 //basic filter
