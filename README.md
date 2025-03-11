@@ -12,6 +12,8 @@ You call synthVoiceNoteOn(SynthVoice_t *voice, uint8_t note) (passing midi notes
 # Example / Test
 [This audio example](output.wav) is a super basic sequencer playing twinkle twinkle little star. Two voices are used: A brassy sawtooth with vibrato, and a lowpass square wave bass 2 octaves below it.
 
+https://github.com/user-attachments/assets/e7a0665f-ba6d-4196-ace2-f6fcd5c5edee
+
 ## Running the test
 
   gcc test.c src/synth.c -I src -o test ; ./test
