@@ -1,4 +1,4 @@
-#Micro Modular Synth
+# Micro Modular Synth
 
 Designed for microcontrollers, this uses little RAM and flash.
 Intended for 32-bit microcontrollers that have a fast multiply, like ARM Cortex-M0.
