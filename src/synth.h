@@ -1,3 +1,5 @@
+//a super fast simple sound synthesis engine
+// 2025 Ben Hencke
 #ifndef __SYNTH_H
 #define __SYNTH_H
 

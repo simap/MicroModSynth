@@ -1,10 +1,8 @@
+//a super fast simple sound synthesis engine
+// 2025 Ben Hencke
 
 #include "synth.h"
-
 #include "string.h"
-
-//a super fast simple sound synthesis engine
-
 
 
 SynthVoice_t synthVoices[SYNTH_VOICES];
